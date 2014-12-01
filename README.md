@@ -5,20 +5,21 @@ This zip archive includes everything needed to recreate the calculations and vis
 All data was collected between 10-03-2013 and 30-03-2013. Additional YouTube data was collected in September 2013.
 
 ## Content
+*Folders*
+- [pythonScripts] Folder containing the python scripts for processing YouTube videos
+- [rFunctions] Folder containing required scripts (these are run in the background)
+- [TextViz images] Folder containing images obtained by visualising significant differences between aggregate texts
+- [tweetData] Folder containing raw and processed tweets data, and texts of tweets divided by language
+- [wikiData] Folder containing translated documents of Wikipedia discussions about Bandera
+- [youtubeData] Folder containing raw and processed data from YouTube about videos featuring Bandera
+- [youtubePlots] Folder containing the resulting plots from the python scripts
 
-[pythonScripts] Folder containing the python scripts for processing YouTube videos
-[rFunctions] Folder containing required scripts (these are run in the background)
-[TextViz images] Folder containing images obtained by visualising significant differences between aggregate texts
-[tweetData] Folder containing raw and processed tweets data, and texts of tweets divided by language
-[wikiData] Folder containing translated documents of Wikipedia discussions about Bandera
-[youtubeData] Folder containing raw and processed data from YouTube about videos featuring Bandera
-[youtubePlots] Folder containing the resulting plots from the python scripts
-
-README.txt - this file
-textComparison.R - R script to process wikipedia data
-tweetsData.R -  R script to process the twitter data
-tweetsStats.R - R script to visualise the twitter data
-youTube.R - R script to process and visualise the youtube data
+*files*
+- README.txt - this file
+- textComparison.R - R script to process wikipedia data
+- tweetsData.R -  R script to process the twitter data
+- tweetsStats.R - R script to visualise the twitter data
+- youTube.R - R script to process and visualise the youtube data
 
 ++++++++++++++++
 
