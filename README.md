@@ -1,12 +1,10 @@
 This zip archive includes everything needed to recreate the calculations and visualisations referred to in our article about Bandera:
 
-Rolf Fredheim, Gernot Howanitz, Mykola Makhortykh: "Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies". In Digital Icons 12 (2014), 25-53. Available online: http://www.digitalicons.org/issue12/fredheim-howanitz-makhortykh/
+**Rolf Fredheim, Gernot Howanitz, Mykola Makhortykh: "Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies". In Digital Icons 12 (2014), 25-53. Available online:** http://www.digitalicons.org/issue12/fredheim-howanitz-makhortykh/
 
 All data was collected between 10-03-2013 and 30-03-2013. Additional YouTube data was collected in September 2013.
 
-+++++++++++++++
-   Content
-+++++++++++++++
+## Content
 
 [pythonScripts] Folder containing the python scripts for processing YouTube videos
 [rFunctions] Folder containing required scripts (these are run in the background)
@@ -23,14 +21,10 @@ tweetsStats.R - R script to visualise the twitter data
 youTube.R - R script to process and visualise the youtube data
 
 ++++++++++++++++
-   R scripts
-++++++++++++++++
 
 Processing the data is optional. We include both raw data and processed data, so the files above need not be run in order. They are set up in such a way as to require minimal changes. To use the scripts unzip the data into a new folder, keeping the structure of the zip archive. Open R, and set the working directory to the unzipped folder. Make sure you have an internet connection to download required packages, as well as to get data from Google and Twitter.
 
-++++++++++++++++
- Python scripts
-++++++++++++++++
+## Python scripts
 
 The python scripts need the following packages to work: cv2, scipy, pylab, guess_language, urllib2. If you don't have them, install them with "sudo pip install $PACKAGE_NAME". Moreover, download.py needs the linux package 'youtube-dl', and the shell script xtractFrames.sh needs the linux pacakge 'ffmpeg'.
 
