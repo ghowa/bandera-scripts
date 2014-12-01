@@ -1,6 +1,6 @@
 This zip archive includes everything needed to recreate the calculations and visualisations referred to in our article about Bandera:
 
-**Rolf Fredheim, Gernot Howanitz, Mykola Makhortykh: "Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies". In Digital Icons 12 (2014), 25-53. Available online:** http://www.digitalicons.org/issue12/fredheim-howanitz-makhortykh/
+**Rolf Fredheim, Gernot Howanitz, Mykola Makhortykh: "Scraping the Monumental: Stepan Bandera through the Lens of Quantitative Memory Studies". In Digital Icons 12 (2014), 25-53. Available online:** [Link hidden until publication]
 
 All data was collected between 10-03-2013 and 30-03-2013. Additional YouTube data was collected in September 2013.
 
